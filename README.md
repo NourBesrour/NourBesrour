@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NourBesrour
-- 👀 I’m interested in Machiine Learning, Artificial Intelligence and Cybersecurity
+- 👀 I’m interested in Machine Learning, Artificial Intelligence and Cybersecurity
 - 🌱 I’m currently learning these 3 skills
 - 📫 How to reach me :
 -         Facebook : https://www.facebook.com/bessrour.nour
