@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋      Hi, I’m @NourBesrour<br>👀      I’m interested in Artificial Intelligence and Cybersecurity
+👋      Hi, I’m @NourBesrour<br>👀      Passionate about Artificial Intelligence
 
 
 ## 🌐 Socials:
